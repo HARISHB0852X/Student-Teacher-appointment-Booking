@@ -69,7 +69,7 @@ Student-Teacher-Booking-Appointment-main/
 
 ## License
 
-This project is licensed under the Your License.
+This project is licensed under the public use.
 
 ## Contact
 
